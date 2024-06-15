@@ -1,2 +1,2 @@
 # AdaShift
-### Will release as soon ad possible
+### Will release very soon
